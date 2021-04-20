@@ -3,6 +3,8 @@ Yulia Buchatskaya
 ingwer@tutanota.com
 ## About
 I studied in Polytechnic college with the main focus on the theory and practice of software development and then I graduated from the South Ural State University, where I studied at the Economics and Management Faculty, department of Informatics. My main topic was economical information technologies and I had some experience working as a mySQL database  programmer. After that I became interested graphic design. When I lived in Russia, I had a chance to work as a designer (my occupations covered both graphic design and HTML\CSS coding). Later I started to freelance and I currently work with many customers from all over the world, mainly from Europe.
+
+Now I am very interested in developing Android apps. I have studied several courses on my own and I want more theoretical and practical lessons.
 ## Skills 
 HTML 5, CSS, PHP, SQL
 ## Experience
