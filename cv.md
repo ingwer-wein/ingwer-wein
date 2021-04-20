@@ -1,16 +1,32 @@
-What should a Junior Developer Resume contain?
+Yulia Buchatskaya
+## Contact Info
+ingwer@tutanota.com
+## About
+I studied in Polytechnic college with the main focus on the theory and practice of software development and then I graduated from the South Ural State University, where I studied at the Economics and Management Faculty, department of Informatics. My main topic was economical information technologies and I had some experience working as a mySQL database  programmer. After that I became interested graphic design. When I lived in Russia, I had a chance to work as a designer (my occupations covered both graphic design and HTML\CSS coding). Later I started to freelance and I currently work with many customers from all over the world, mainly from Europe.
+## Skills 
+HTML 5, CSS, PHP, SQL
+## Experience
+##### 08/2011 - now
+Web design, HTML\CSS coding
+##### 05/2004 – 08/2006 Uralmedia
+Web design, PHP- and HTML\CSS coding
+##### 10/2001 – 05/2002 Forpost
+FoxPro, SQL
+##### 04/2001 – 09/2001 Uralavtoprizep
+FoxPro, SQL
+## Education
+##### 09/1997 – 06/2000
+Polytechnic college, Chelyabinsk
 
-! Important: write your Resume in English if you can, if possible
+Department of "Software for computer technology and automated systems"
+##### 09/2000 – 05/2003
+South Ural State University, Chelyabinsk, Russia
 
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+Faculty of Economics and Management
+
+Department of Computer Science
+
+Department of "IT in the Economic Sector"
+
+## English
+Level B1.
