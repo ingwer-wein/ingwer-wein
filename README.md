@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ingwer-wein
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning Kotlin
+https://ingwer-wein.github.io/rsschool-cv/cv
 
 
 <!---
